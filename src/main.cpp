@@ -11,8 +11,8 @@ Servo servo360;     // Servo de rotación continua (360°)
 #define SERVO_PIN 13
 #define SERVO360_PIN 12
 
-#define API_KEY "AIzaSyDcqO9D9FCRSI0CBzEW87FbN4GV8zZpxeI"
-#define DATABASE_URL "https://servocontrol2-c5a8f-default-rtdb.firebaseio.com/"
+#define API_KEY "AIzaSyDbiKAyB-qugi2JITiKIoSGGTgUyysQRd4"
+#define DATABASE_URL "https://solsicontrol-default-rtdb.firebaseio.com/"
 
 FirebaseData fbdo_s;
 FirebaseAuth auth;
